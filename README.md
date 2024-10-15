@@ -7,6 +7,8 @@ It implements the famous Dining Philosophers problem by Diderot, where several p
 
 This project aims to develop skills in thread management, synchronization, and the use of mutexes.
 
+Score: **100%**
+
 ## Objectives
 
 - Understand and solve concurrency problems.
